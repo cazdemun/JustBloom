@@ -1,27 +1,29 @@
 # JustBloom
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 8.3.3.
+Bloom's taxonomy is a set ot hierarchical models used to classify educational learning objectives into levels of complexity and specificity.
 
-## Development server
+Basically is a roadmap to learning something. The granularity of the topic is yet to be researched.
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
+Aditionally we have to have a sources TAB.
 
-## Code scaffolding
+# Bloom's Taxonomy Levels
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
+## Knowledge
 
-## Build
+Anki' flashcard
+ 
+## Comprehension
 
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory. Use the `--prod` flag for a production build.
+Mental/Conceptual/Etc maps
 
-## Running unit tests
+## Application
 
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
+Jupyter or DIY
 
-## Running end-to-end tests
+## Analysis
 
-Run `ng e2e` to execute the end-to-end tests via [Protractor](http://www.protractortest.org/).
+## Synthesis
 
-## Further help
+## Evaluation
 
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI README](https://github.com/angular/angular-cli/blob/master/README.md).
+Proyect Management (JustDo)
